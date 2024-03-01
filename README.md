@@ -1,0 +1,1 @@
+## eCommerce project using Laravel (Backend) & React + Vite (Frontend)
